@@ -1,8 +1,8 @@
-# ✅ Gerenciador de Tarefas — Python
+# Gerenciador de Tarefas — Python
 
 Projeto em Python para gerenciar tarefas pelo terminal, com cores, prioridades e salvamento automático em arquivo JSON.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Adicionar tarefas com título, descrição e prioridade (Alta / Média / Baixa)
 - Listar todas as tarefas com status visual
@@ -12,7 +12,7 @@ Projeto em Python para gerenciar tarefas pelo terminal, com cores, prioridades e
 - Resumo com contagens
 - Dados salvos automaticamente em `tarefas.json`
 
-## 🛠️ Como executar
+## Como executar
 
 Você precisa ter o **Python 3** instalado.
 
@@ -20,7 +20,7 @@ Você precisa ter o **Python 3** instalado.
 python tarefas.py
 ```
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 gerenciador_tarefas/
@@ -29,7 +29,7 @@ gerenciador_tarefas/
 └── README.md        # Este arquivo
 ```
 
-## 💡 Conceitos utilizados
+## Conceitos utilizados
 
 - Funções e modularização
 - Leitura e escrita de arquivos JSON
